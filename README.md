@@ -1,4 +1,4 @@
-# embedded-boot-time-instrumentation
+# EMBEDDED BOOT TIME INSTRUMENTATION
 
 **© 2026 Matt Chang (matt.chang1118@gmail.com) • https://github.com/mattchang-engr**  
 **License: Apache-2.0 (with NOTICE)**  
