@@ -30,9 +30,6 @@ In safety‑sensitive and latency‑sensitive systems, **reboot time is a reliab
 - Correct handling of **endianness** for the CNTCR payload at this stage so the timer actually starts.
 - Use of **ALTCBAR** to open the **alternate CCSR window** (0x02xx_xxxx) required to reach the Secure System Counter block.
 - A concise, reproducible **pair of PBI commands** that (1) program ALTCBAR, then (2) enable CNTCR.
-- Brief validation with **UART samples** showing staged times and an example full boot of ~**7.947 s**.
-
-*(The motivation and validation are distilled from Matt’s science project report.)*
 
 ---
 
