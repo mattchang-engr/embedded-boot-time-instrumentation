@@ -6,7 +6,7 @@
 
 ---
 
-**Summary**  
+## Summary
 **This project implements an intrinsic, early‑boot hardware timer—activated at the PBL/PBI phase prior to Bootloader execution—to quantify end‑to‑end boot latency with microsecond‑level resolution on embedded multicore platforms, validated on the NXP LS1043A‑RDB.**
 
 ---
