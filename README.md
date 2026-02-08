@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25160275/README.md)
 # embedded-boot-time-instrumentation
 
 **© 2026 Matt Chang (matt.chang1118@gmail.com) • https://github.com/mattchang-engr**  
