@@ -31,6 +31,7 @@ In safety‑sensitive and latency‑sensitive systems, **reboot time is a reliab
 - Use of **ALTCBAR** to open the **alternate CCSR window** (0x02xx_xxxx) required to reach the Secure System Counter block.
 - A concise, reproducible **pair of PBI commands** that (1) program ALTCBAR, then (2) enable CNTCR.
 
+
 ---
 
 ## System Architecture (top‑to‑bottom)
